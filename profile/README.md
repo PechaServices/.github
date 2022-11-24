@@ -1,3 +1,3 @@
 ## Tibetan Language Services
 
-👩‍💻 Learn more about the services we provide in our [Wiki](https://github.com/pechajobs/Services/wiki) 
+👩‍💻 Learn about our services in our [Wiki](https://github.com/pechajobs/Services/wiki) 
